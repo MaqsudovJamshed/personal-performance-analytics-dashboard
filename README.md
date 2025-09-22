@@ -92,29 +92,24 @@ Target vs. Actual Analysis: Compared performance against goals to highlight prog
 Visualization: Converted metrics into clear scorecards and charts (bar, column, area, pie, trend lines) for easy interpretation.
 
 
+### 🔗 Dashboard
+Check out the dynamic dashboard [here](https://docs.google.com/spreadsheets/d/1x-mhHTT8bQrLh7cjOE0KSys-MGb55SVAtPmmatN_ONQ/edit?gid=59886938#gid=59886938)!
 
-## Dashboard
-
-The link to the dynamic dashboard: 
-
-https://docs.google.com/spreadsheets/d/1x-mhHTT8bQrLh7cjOE0KSys-MGb55SVAtPmmatN_ONQ/edit?gid=59886938#gid=59886938
 
 ## Key Insights
-
-| Metric          | Type                 | Insight / Trend                                                                  |
-| --------------- | -------------------- | -------------------------------------------------------------------------------- |
-| Plan the Day    | Categorical (Yes/No) | Completed on \~70% of days; correlated with higher deep work hours               |
-| Journaled       | Categorical (Yes/No) | Completed \~60% of days; higher reflection days coincide with better consistency |
-| Deep Work Hours | Float                | Higher on weekdays; moving average shows upward trend                            |
-| Daily Reading   | Float                | Averaged 30 min/day; peaks on weekends                                           |
-| Workout         | Categorical (Yes/No) | Completed \~65% of days; weekends had highest consistency                        |
-| Steps           | Float                | Averaged 8,500 steps/day; highest on weekends                                    |
-| Diet Followed   | Categorical (Yes/No) | \~70% adherence; consistent with workout days                                    |
-| Weight (kg)     | Float                | Minor fluctuations; downward trend over 4 months                                 |
-| Calorie Deficit | Float                | Achieved on 60% of days; correlates with workout days                            |
-| Sleep           | Duration (hh\:mm)    | Averaged 7:30h; shorter on weekdays                                              |
-| Screen Time     | Duration (hh\:mm)    | Decreasing trend; lowest on weekends                                             |
-
+| Metric              | Insight / Trend                                                                                                                                |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Planned the Day** | Out of 122 days, 65 (53%) were planned. Longest streak: 11 days. Daily consistency: 57%.                                                       |
+| **Journaled**       | Out of 122 days, 44 (36%) were journaled. Longest streak: 10 days. Consistency: 39%.                                                           |
+| **Deep Work Hours** | All-time daily average: 1h16min. Monthly average improved from 25min → 2h. Cumulative increase: 16h (June) → 67h (August) → \~50h (September). |
+| **Reading**         | Daily average: 5 pages. Consistency: 30%. Longest single day: 24 pages. Last 3 months average: 8–10 pages/day.                                 |
+| **Workout**         | 70% consistent; 39 workouts out of 56 (target) in last 18 weeks.                                                                               |
+| **Steps**           | Daily average: 10k steps from June onward — strong indicator.                                                                                  |
+| **Diet Followed**   | 81% consistent following macros, avoiding processed food, maintaining calories.                                                                |
+| **Weight (kg)**     | Lost 4.9kg (81 → 76.2kg). BMI now 24 (normal). Weight loss aligned with dieting habits.                                                        |
+| **Calorie Deficit** | Average deficit: -192 kcal. Consistency: 39%. Body fat reduced 2.41%, now 18.81%.                                                              |
+| **Sleep**           | Daily average: 7h44min. Consistency: 81% (≥7h). Monthly cumulative: 246h (August) vs 217h target.                                              |
+| **Screen Time**     | All-time average: 4h45min/day; target: 2h/day. Slowly decreasing: July 175h → August 127h → September \~80h. Goal: 62h/month.                  |
 
 
 ## Next Steps
@@ -127,4 +122,4 @@ Enhance the dashboard with predictive elements and automated updates to make it 
 
 Refine visualizations and scorecards based on ongoing insights and usability improvements.
 
-
+______________________________________________
