@@ -28,11 +28,18 @@ Tools Used:
 
 Google Sheets → data cleaning, formulas, pivot tables, conditional formatting.
 
-Functions:
+
+                                                Functions:
+
 Aggregation → COUNT, SUM, COUNTIF, SUMIF
+
 Statistical → AVERAGE, AVERAGEIFS, MIN, MAX
+
 Filtering & Lookup → FILTER, INDEX, MATCH
+
 Date Functions → ISOWEEKNUM, WEEKNUM, MONTH
+
+
 Visualizations → area charts, bar charts, column charts, pie charts, trend lines, scorecards.
 
 
