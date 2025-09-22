@@ -2,32 +2,51 @@
 
 Project Overview
 
-A Google Sheets dashboard that tracks and analyzes my personal productivity and performance metrics. 
+A Google Sheets dashboard that tracks and analyzes my personal productivity and performance metrics.
+
 The project demonstrates my ability to **clean**, **structure**, and **visualize** data using **spreadsheet functions** and **dynamic scorecards and charts**.
 
 ## Motivation
 
 I built this project to:
 
-Track my own daily habits and performance.
+Track my habits and performance over both the short and long term.
 
-Practice real-world data analysis using Google Sheets.
+Practice data analysis with real personal data that reflects my life.
 
-Showcase dashboard design and storytelling skills for a junior data analyst role.
+Gain insights to improve key metrics like productivity and consistency.
+
+Blend self-tracking with a professional analytics approach to demonstrate skills relevant for a junior data analyst role.
 
 
 
 ## Data & Tools
 
-Data Source: Self-recorded daily performance metrics (deep work hours, exercise, reading, etc.).
+Data Source: Self-recorded daily performance metrics (e.g., deep work hours, exercise, reading).
 
 Tools Used:
 
-Google Sheets (data cleaning, formulas, charts, conditional formatting)
+Google Sheets → data cleaning, formulas, pivot tables, conditional formatting.
 
-Google Sheets Functions (e.g., QUERY, ARRAYFORMULA, IF, VLOOKUP, MATCH, )
+Functions:
+Aggregation → COUNT, SUM, COUNTIF, SUMIF
+Statistical → AVERAGE, AVERAGEIFS, MIN, MAX
+Filtering & Lookup → FILTER, INDEX, MATCH
+Date Functions → ISOWEEKNUM, WEEKNUM, MONTH
+Visualizations → area charts, bar charts, column charts, pie charts, trend lines, scorecards.
 
-Dynamic visualizations (area charts, bar charts, column charts, scorecards, pie charts, trend lines)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Methodology
