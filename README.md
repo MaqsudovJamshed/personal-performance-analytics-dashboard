@@ -44,29 +44,25 @@ Visualizations → area charts, bar charts, column charts, pie charts, trend lin
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Methodology
 
-Data Collection: Recorded daily metrics over X weeks.
+**Data Collection** : Recorded daily performance metrics over 18 weeks.
 
-Data Cleaning: Standardized inputs and handled missing values.
+**Data Cleaning**:    Standardized inputs, ensured completeness, and created helper fields (e.g., extracting week numbers, months, and weekdays).
 
-Analysis: Created calculated fields (e.g., streaks, averages, targets vs. actual).
+**Analysis**:         Built calculated fields such as streaks, averages, percentages, cumulative totals, and actual vs. target comparisons.
 
-Visualization: Built a dynamic dashboard with charts and KPIs.
+**Visualization**:   Designed scorecards and charts including:
 
-Insights: Identified patterns between deep work and productivity.
+- Weekly and monthly averages
+- Monthly cumulative values
+- Moving averages for trend smoothing
+- Actual vs. target comparisons
+- Consistency rates (% of days habit completed)
+
+**Monitoring & Diagnosis**: Used the dashboard to provide a clear, descriptive view of the health of habits and progress over time.
+
+
 
 
 ## Dashboard Preview
