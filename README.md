@@ -1,12 +1,12 @@
 # Personal-Performance-Analytics-Dashboard
 
-Project Overview
+📊 Project Overview
 
 A Google Sheets dashboard that tracks and analyzes my personal productivity and performance metrics.
 
 The project demonstrates my ability to **clean**, **structure**, and **visualize** data using **spreadsheet functions** and **dynamic scorecards and charts**.
 
-## Motivation
+## 🎯 Motivation
 
 I built this project to:
 
@@ -20,27 +20,39 @@ Blend self-tracking with a professional analytics approach to demonstrate skills
 
 
 
-## Data & Tools
+## 🛠 Data & Tools
 
-Data Source: Self-recorded daily performance metrics (e.g., deep work hours, exercise, reading).
+Data Source: Self-recorded daily performance metrics. 
 
-Tools Used:
+**Main Metrics:**
 
-Google Sheets → data cleaning, formulas, pivot tables, conditional formatting.
+1. Plan the Day – Yes/No (categorical)
+2. Journaled – Yes/No (categorical)
+3. Deep Work Hours – float
+4. Daily Reading – float
+5. Workout – Yes/No (categorical)
+6. Steps – float
+7. Diet Followed – Yes/No (categorical)
+8. Weight (kg) – float
+9. Calorie Deficit – float
+10. Sleep – hh:mm (duration)
+11. Screen Time – hh:mm (duration)
 
+**Tools Used**
 
-                                                Functions:
+Google Sheets: data cleaning, formulas, pivot tables, conditional formatting.
 
-Aggregation → COUNT, SUM, COUNTIF, SUMIF
+- *Functions*:
 
-Statistical → AVERAGE, AVERAGEIFS, MIN, MAX
+**Aggregation**: COUNT, SUM, COUNTIF, SUMIF
 
-Filtering & Lookup → FILTER, INDEX, MATCH
+**Statistical**: AVERAGE, AVERAGEIFS, MIN, MAX
 
-Date Functions → ISOWEEKNUM, WEEKNUM, MONTH
+**Filtering & Lookup**:   FILTER, INDEX, MATCH
 
+**Date Functions**: ISOWEEKNUM, WEEKNUM, MONTH
 
-Visualizations → area charts, bar charts, column charts, pie charts, trend lines, scorecards.
+**Visualizations**:  Area Charts, Bar Charts, Column Charts, Pie Charts, Trend Lines, Scorecards.
 
 
 
@@ -48,8 +60,9 @@ Visualizations → area charts, bar charts, column charts, pie charts, trend lin
 
 **Data Collection** : Recorded daily performance metrics over 18 weeks.
 
-**Data Cleaning**:    Standardized inputs, ensured completeness, and created helper fields (e.g., extracting week numbers, months, and weekdays).
-
+**Data Cleaning**:    Standardized inputs, ensured completeness, and created helper fields 
+                       (e.g., extracting week numbers, months, and weekdays).
+                       
 **Analysis**:         Built calculated fields such as streaks, averages, percentages, cumulative totals, and actual vs. target comparisons.
 
 **Visualization**:   Designed scorecards and charts including:
@@ -60,46 +73,58 @@ Visualizations → area charts, bar charts, column charts, pie charts, trend lin
 - Actual vs. target comparisons
 - Consistency rates (% of days habit completed)
 
-**Monitoring & Diagnosis**: Used the dashboard to provide a clear, descriptive view of the health of habits and progress over time.
+**Monitoring & Diagnosis**: Used the dashboard to identify patterns, trends, and performance gaps, providing a clear picture of 
+                            habit health over time.
 
 
-
-
-## Dashboard Preview
-
-The link to my dynamic dashboard: https://docs.google.com/spreadsheets/d/1x-mhHTT8bQrLh7cjOE0KSys-MGb55SVAtPmmatN_ONQ/edit?gid=59886938#gid=59886938
-
-
-Key Insights
-
-Found that increasing deep work hours by 1 hr/day improved overall productivity score by X%.
-
-Visualized daily vs. target metrics for clear performance tracking.
-
-Identified areas where I was over/under-performing against targets.
 
 ## Skills Demonstrated
 
-Data structuring and cleaning
+Data Preparation:        Cleaned inputs, structured raw data, and created helper fields (weeks, months, weekdays).
 
-Spreadsheet analytics (Google Sheets)
+Statistical Techniques: Applied descriptive statistics (averages, percentages, min/max, cumulative totals) and time-series 
+                        methods (moving averages, trend analysis).
 
-Data visualization & dashboard design
+Trend & Pattern Identification: Tracked weekly/monthly performance, consistency rates, and habit patterns across weekdays.
 
-Analytical storytelling
+Target vs. Actual Analysis: Compared performance against goals to highlight progress and gaps.
 
-Documentation and reproducibility
+Visualization: Converted metrics into clear scorecards and charts (bar, column, area, pie, trend lines) for easy interpretation.
 
 
-## Relevance for Data Analyst Role
 
-This project demonstrates my ability to:
+## Dashboard
 
-Manage and clean raw data.
+The link to the dynamic dashboard: 
 
-Apply analytical thinking with spreadsheet functions.
+https://docs.google.com/spreadsheets/d/1x-mhHTT8bQrLh7cjOE0KSys-MGb55SVAtPmmatN_ONQ/edit?gid=59886938#gid=59886938
 
-Communicate insights effectively with visualizations.
+## Key Insights
 
-Deliver a polished, real-world style dashboard — similar to reporting tasks in business settings.
+| Metric          | Type                 | Insight / Trend                                                                  |
+| --------------- | -------------------- | -------------------------------------------------------------------------------- |
+| Plan the Day    | Categorical (Yes/No) | Completed on \~70% of days; correlated with higher deep work hours               |
+| Journaled       | Categorical (Yes/No) | Completed \~60% of days; higher reflection days coincide with better consistency |
+| Deep Work Hours | Float                | Higher on weekdays; moving average shows upward trend                            |
+| Daily Reading   | Float                | Averaged 30 min/day; peaks on weekends                                           |
+| Workout         | Categorical (Yes/No) | Completed \~65% of days; weekends had highest consistency                        |
+| Steps           | Float                | Averaged 8,500 steps/day; highest on weekends                                    |
+| Diet Followed   | Categorical (Yes/No) | \~70% adherence; consistent with workout days                                    |
+| Weight (kg)     | Float                | Minor fluctuations; downward trend over 4 months                                 |
+| Calorie Deficit | Float                | Achieved on 60% of days; correlates with workout days                            |
+| Sleep           | Duration (hh\:mm)    | Averaged 7:30h; shorter on weekdays                                              |
+| Screen Time     | Duration (hh\:mm)    | Decreasing trend; lowest on weekends                                             |
+
+
+
+## Next Steps
+
+Expand the dataset beyond the initial 4-month period to track longer-term trends.
+
+Incorporate deeper statistical analysis, including correlations between metrics and more advanced KPIs.
+
+Enhance the dashboard with predictive elements and automated updates to make it more actionable.
+
+Refine visualizations and scorecards based on ongoing insights and usability improvements.
+
 
