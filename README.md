@@ -1,4 +1,4 @@
-# Personal-Performance-Analytics-Dashboard
+# Personal Performance Tracker- Dashboard
 
 📊 Project Overview
 
