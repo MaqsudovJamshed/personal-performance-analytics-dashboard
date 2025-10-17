@@ -7,9 +7,9 @@
 
 To better understand my daily habits and optimize my productivity, I decided to build a *Personal Productivity & Performance Tracker*. Before this, I relied on manual **to-do lists** and **monthly habit** reviews, which made it difficult to **identify patterns** and **analyze trends** effectively. To address this, I created a dynamic dashboard to centralize daily, weekly, monthly, and all-time metrics in one place. 
 
-The dashboard focuses primarily on descriptive analytics, allowing me to monitor the health of my habits over different time periods through automated data cleaning, aggregation, and visualization.
+The dashboard focuses primarily on **descriptive analytics**, allowing me to monitor the ***health of my habits*** over different time periods through automated data cleaning, aggregation, and visualization.
 
-By tracking these metrics dynamically, I regularly draw meaningful insights about my habits and make data-driven decisions to continuously improve my productivity.
+By tracking these metrics **dynamically**, I regularly draw meaningful insights about my habits and make **data-driven decisions** to continuously improve my productivity.
 
 Insights & recommendations are provided on the following habits: 
 - Planning the Day 
