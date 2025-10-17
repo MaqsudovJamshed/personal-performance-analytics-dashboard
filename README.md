@@ -1,6 +1,8 @@
 # Personal Productivity & Performance Tracker
 
-personalT.png
+<p align="center">
+  <img src="/personalT.png" alt="Personal Productivity Dashboard" width="">
+</p>
 
 
 📊  1. Project Background & Overview
@@ -25,10 +27,48 @@ Insights and recommendations are generated in the following key areas:
 - The formulas used for descriptive analysis are documented (here)
 _________________________________________________________________________________
 
-2. Data Structure Overview
+## 2. Data Structure Overview
 
-Show the structure of a data set  that someone knows 
-About the domain you are working with . 
+The dataset is organized into four main tables:
+- Raw_Data – Contains the original, unprocessed data.-
+- Helper_Columns – Includes additional engineered columns created to support calculations and visualizations.
+- Calculations – Performs all the analysis and contains pre-aggregated values and computed metrics that serve as the foundation for the dashboard
+- Dashboard – Consolidates the final, ready-to-visualize metrics for reporting and analysis.
+
+In total, the analysis focuses on 11 primary metrics
+1. Sleep
+2. Planning the Day
+3. Workout
+4. Joirnaling
+5. Deep Work
+6. Steps
+7. Daily Weight
+8. Calory Defecit
+9. Screen Time
+10. Read Pages
+11.  Diet Followed
+
+
+All other columns were derived through feature engineering, designed to streamline the calculation and visualization of these metrics within the dashboard.
+
+Below, you can see the **Entity–Relationship Diagram (ERD)** of these tables:
+<p align="center">
+  <img src="/table_relationship.png" alt="Personal Productivity Dashboard" width="">
+</p>
+
+________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 3. Executive summary 
