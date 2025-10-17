@@ -5,26 +5,25 @@
 
 📊  1. Project Background & Overview
 
-To better understand my daily habits and optimize my productivity, I decided to build a *Personal Productivity & Performance Tracker*. Before this, I relied on manual **to-do lists** and **monthly habit** reviews, which made it difficult to **identify patterns** and **analyze trends** effectively. To address this, I created a dynamic dashboard to centralize daily, weekly, monthly, and all-time metrics in one place. 
+The Personal Productivity & Performance Tracker was developed to analyze daily habits and optimize productivity. Traditionally, manual to-do lists and monthly habit reviews make it challenging to identify patterns or analyze trends effectively. To address this, a dynamic dashboard was created to centralize daily, weekly, monthly, and all-time metrics in one place.
 
-The dashboard focuses primarily on **descriptive analytics**, allowing me to monitor the ***health of my habits*** over different time periods through automated data cleaning, aggregation, and visualization.
-
-By tracking these metrics **dynamically**, I regularly draw meaningful insights about my habits and make **data-driven decisions** to continuously improve my productivity.
-
-Insights & recommendations are provided on the following habits: 
-- Planning the Day 
-- Journaling
-- Deep Work Hours
-- Daily Reading
-- Workout 
-- Steps
-- Diet Followed
-- Daily Weight
-- Calorie Deficit
-- Sleep
-- Screen Time
+The dashboard focuses primarily on descriptive analytics, enabling the monitoring of the health of habits over different time periods through automated data cleaning, aggregation, and visualization. By tracking these metrics dynamically, the dashboard provides actionable insights that support data-driven decisions to continuously improve productivity.
 
 
+Insights and recommendations are generated in the following key areas:
+
+* **Time Series Analysis** (Daily, Weekly, Monthly, All-Time): Evaluates trends and patterns in key metrics by examining average values, cumulative totals, longest streaks, and consistency over time, and comparing performance against targets and moving averages.
+
+* **Performance Benchmarking**: Compares current performance against personal goals or targets and analyzes month-over-month improvements to measure progress and identify areas for optimization.
+
+* **Visualization & Dashboarding**: Uses charts, tables, and conditional formatting to highlight trends, outliers, streaks, and progress dynamically over different time periods.
+
+
+- A dynamic Google Sheet dashboard can be viewed (here)
+
+
+- The formulas used for descriptive analysis are documented (here)
+_________________________________________________________________________________
 
 2. Data Structure Overview
 
