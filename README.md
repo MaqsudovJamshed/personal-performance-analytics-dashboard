@@ -1,125 +1,51 @@
-# Personal Performance Tracker- Dashboard
+# Personal Productivity & Performance Tracker
 
-📊 Project Overview
-
-A Google Sheets dashboard that tracks and analyzes my personal productivity and performance metrics.
-
-The project demonstrates my ability to **clean**, **structure**, and **visualize** data using **spreadsheet functions** and **dynamic scorecards and charts**.
-
-## 🎯 Motivation
-
-I built this project to:
-
-Track my habits and performance over both the short and long term.
-
-Practice data analysis with real personal data that reflects my life.
-
-Gain insights to improve key metrics like productivity and consistency.
-
-Blend self-tracking with a professional analytics approach to demonstrate skills relevant for a junior data analyst role.
+personalT.png
 
 
+📊  1. Project Background & Overview
 
-## 🛠 Data & Tools
+The Personal Productivity & Performance Tracker was developed to analyze daily habits and optimize productivity. Traditionally, manual to-do lists and monthly habit reviews make it challenging to identify patterns or analyze trends effectively. To address this, a dynamic dashboard was created to centralize daily, weekly, monthly, and all-time metrics in one place.
 
-Data Source: Self-recorded daily performance metrics. 
+The dashboard focuses primarily on descriptive analytics, enabling the monitoring of the health of habits over different time periods through automated data cleaning, aggregation, and visualization. By tracking these metrics dynamically, the dashboard provides actionable insights that support data-driven decisions to continuously improve productivity.
 
-**Main Metrics:**
 
-1. Plan the Day – Yes/No (categorical)
-2. Journaled – Yes/No (categorical)
-3. Deep Work Hours – float
-4. Daily Reading – float
-5. Workout – Yes/No (categorical)
-6. Steps – float
-7. Diet Followed – Yes/No (categorical)
-8. Weight (kg) – float
-9. Calorie Deficit – float
-10. Sleep – hh:mm (duration)
-11. Screen Time – hh:mm (duration)
+Insights and recommendations are generated in the following key areas:
 
-**Tools Used**
+* **Time Series Analysis** (Daily, Weekly, Monthly, All-Time): Evaluates trends and patterns in key metrics by examining average values, cumulative totals, longest streaks, and consistency over time, and comparing performance against targets and moving averages.
 
-Google Sheets: data cleaning, formulas, pivot tables, conditional formatting.
+* **Performance Benchmarking**: Compares current performance against personal goals or targets and analyzes month-over-month improvements to measure progress and identify areas for optimization.
 
-- *Functions*:
+* **Visualization & Dashboarding**: Uses charts, tables, and conditional formatting to highlight trends, outliers, streaks, and progress dynamically over different time periods.
 
-**Aggregation**: COUNT, SUM, COUNTIF, SUMIF
 
-**Statistical**: AVERAGE, AVERAGEIFS, MIN, MAX
+- A dynamic Google Sheet dashboard can be viewed (here)
 
-**Filtering & Lookup**:   FILTER, INDEX, MATCH
 
-**Date Functions**: ISOWEEKNUM, WEEKNUM, MONTH
+- The formulas used for descriptive analysis are documented (here)
+_________________________________________________________________________________
 
-**Visualizations**:  Area Charts, Bar Charts, Column Charts, Pie Charts, Trend Lines, Scorecards.
+2. Data Structure Overview
+
+Show the structure of a data set  that someone knows 
+About the domain you are working with . 
+
+
+3. Executive summary 
+
+Get here right into the juicy staff . 
 
 
 
-## Methodology
+4. Insight Deep Dive 
 
-**Data Collection** : Recorded daily performance metrics over 18 weeks.
+We talk about specific part of the executive summary and break down more specific finding into detail. 
 
-**Data Cleaning**:    Standardized inputs, ensured completeness, and created helper fields 
-                       (e.g., extracting week numbers, months, and weekdays).
-                       
-**Analysis**:         Built calculated fields such as streaks, averages, percentages, cumulative totals, and actual vs. target comparisons.
-
-**Visualization**:   Designed scorecards and charts including:
-
-- Weekly and monthly averages
-- Monthly cumulative values
-- Moving averages for trend smoothing
-- Actual vs. target comparisons
-- Consistency rates (% of days habit completed)
-
-**Monitoring & Diagnosis**: Used the dashboard to identify patterns, trends, and performance gaps, providing a clear picture of 
-                            habit health over time.
+5. Recommendation. 
 
 
 
-## Skills Demonstrated
-
-Data Preparation:        Cleaned inputs, structured raw data, and created helper fields (weeks, months, weekdays).
-
-Statistical Techniques: Applied descriptive statistics (averages, percentages, min/max, cumulative totals) and time-series 
-                        methods (moving averages, trend analysis).
-
-Trend & Pattern Identification: Tracked weekly/monthly performance, consistency rates, and habit patterns across weekdays.
-
-Target vs. Actual Analysis: Compared performance against goals to highlight progress and gaps.
-
-Visualization: Converted metrics into clear scorecards and charts (bar, column, area, pie, trend lines) for easy interpretation.
 
 
-### 🔗 Dashboard
-Check out the dynamic dashboard [here](https://docs.google.com/spreadsheets/d/1x-mhHTT8bQrLh7cjOE0KSys-MGb55SVAtPmmatN_ONQ/edit?gid=59886938#gid=59886938)!
 
 
-## Key Insights
-| Metric              | Insight / Trend                                                                                                                                |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Planned the Day** | Out of 122 days, 65 (53%) were planned. Longest streak: 11 days. Daily consistency: 57%.                                                       |
-| **Journaled**       | Out of 122 days, 44 (36%) were journaled. Longest streak: 10 days. Consistency: 39%.                                                           |
-| **Deep Work Hours** | All-time daily average: 1h16min. Monthly average improved from 25min → 2h. Cumulative increase: 16h (June) → 67h (August) → \~50h (September). |
-| **Reading**         | Daily average: 5 pages. Consistency: 30%. Longest single day: 24 pages. Last 3 months average: 8–10 pages/day.                                 |
-| **Workout**         | 70% consistent; 39 workouts out of 56 (target) in last 18 weeks.                                                                               |
-| **Steps**           | Daily average: 10k steps from June onward — strong indicator.                                                                                  |
-| **Diet Followed**   | 81% consistent following macros, avoiding processed food, maintaining calories.                                                                |
-| **Weight (kg)**     | Lost 4.9kg (81 → 76.2kg). BMI now 24 (normal). Weight loss aligned with dieting habits.                                                        |
-| **Calorie Deficit** | Average deficit: -192 kcal. Consistency: 39%. Body fat reduced 2.41%, now 18.81%.                                                              |
-| **Sleep**           | Daily average: 7h44min. Consistency: 81% (≥7h). Monthly cumulative: 246h (August) vs 217h target.                                              |
-| **Screen Time**     | All-time average: 4h45min/day; target: 2h/day. Slowly decreasing: July 175h → August 127h → September \~80h. Goal: 62h/month.                  |
-
-
-## Next Steps
-
-Expand the dataset beyond the initial 4-month period to track longer-term trends.
-
-Incorporate deeper statistical analysis, including correlations between metrics and more advanced KPIs.
-
-Enhance the dashboard with predictive elements and automated updates to make it more actionable.
-
-Refine visualizations and scorecards based on ongoing insights and usability improvements.
-
-______________________________________________
