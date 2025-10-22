@@ -1,4 +1,5 @@
-# Personal Productivity & Performance Tracker
+# Productivity KPI Tracker Dashboard
+
 
 <p align="center">
   <img src="/personalT.png" alt="Personal Productivity Dashboard" width="">
@@ -7,7 +8,7 @@
 
 📊  1. Project Background & Overview
 
-The Personal Productivity & Performance Tracker was developed to analyze daily habits and optimize productivity. Traditionally, manual to-do lists and monthly habit reviews make it challenging to **identify patterns** and **analyze trends** effectively. To address this, a dynamic dashboard was created to centralize daily, weekly, monthly, and all-time metrics in one place.
+The **Productivity KPI Tracker Dashboard** was developed to analyze daily habits and optimize productivity. Traditionally, manual to-do lists and monthly habit reviews make it challenging to **identify patterns** and **analyze trends** effectively. To address this, a dynamic dashboard was created to centralize daily, weekly, monthly, and all-time metrics in one place.
 
 The dashboard focuses primarily on **descriptive analytics**, enabling the monitoring of the health of habits over different time periods through automated **data cleaning**, **aggregation**, and **visualization**. By tracking these metrics **dynamically**, the dashboard provides **actionable insights** that support **data-driven** decisions to continuously improve **productivity**.
 
