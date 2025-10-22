@@ -22,11 +22,10 @@ Insights and recommendations are generated in the following key areas:
 
 
 📊 **Dynamic Dashboard:**  
-You can explore the live **Google Sheets dashboard** [here](https://docs.google.com/spreadsheets/d/1x-mhHTT8bQrLh7cjOE0KSys-MGb55SVAtPmmatN_ONQ/edit?gid=59886938#gid=59886938), which updates automatically based on the dataset.
 
+- You can explore the live **Google Sheets dashboard** [here](https://docs.google.com/spreadsheets/d/1x-mhHTT8bQrLh7cjOE0KSys-MGb55SVAtPmmatN_ONQ/edit?gid=59886938#gid=59886938), which updates automatically based on the dataset.
+- The formulas used for descriptive analysis are documented [here](https://docs.google.com/spreadsheets/d/1x-mhHTT8bQrLh7cjOE0KSys-MGb55SVAtPmmatN_ONQ/edit?gid=922938351#gid=922938351).
 
-
-- The formulas used for descriptive analysis are documented (here)
 _________________________________________________________________________________
 
 ## 2. Data Structure Overview
