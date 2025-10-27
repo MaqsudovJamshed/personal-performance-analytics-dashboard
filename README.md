@@ -61,19 +61,39 @@ Below, you can see the **Entity–Relationship Diagram (ERD)** of these tables:
 
 ________________________________________________________________________________________________________________________
 # Executive summary
+### Overview & Key Findings
 
-## Overview Findings
+This dashboard presents an analytical summary of my personal productivity KPIs, designed to measure daily performance, consistency, and behavioral trends across key habit areas.
+Each metric is evaluated based on Consistency %, Gap vs Target, Average Value, Rank, and Longest Streak, allowing for a clear understanding of which habits are most stable and which require improvement.
 
+You can explore the executive summary in a dynamic google sheets [here](https://docs.google.com/spreadsheets/d/1x-mhHTT8bQrLh7cjOE0KSys-MGb55SVAtPmmatN_ONQ/edit?gid=1214931430#gid=1214931430)
 
 <p align="center">
   <img src="/Executive_sum_project.png" alt="Personal Productivity Dashboard" width="">
 </p> 
 
-Get here right into the juicy staff . 
+***High Consistency Areas***:
 
+* **Sleep (88.3%)** and **Daily Weight Tracking (78.3%)** show the strongest consistency, reflecting well-established daily routines and disciplined monitoring habits.
 
+* **Steps(62.8%)** and **Diet Followed (62.3%)** indicate steady adherence to physical activity and nutritional goals.
 
-4. Insight Deep Dive 
+***Moderate Consistency Areas***:
+
+* **Journaling (55.7%)** and **Planning (53.9%)** demonstrate moderate consistency, suggesting good structure in daily planning and reflection but with room for more regular execution.
+
+* **Deep Work (40.9%)** and **Pages Read (42.1%)** show partial alignment with productivity goals, indicating fluctuations in focus and knowledge-building routines.
+
+ ***Low Consistency Areas***:
+
+* **Workout(34.9%)**, **Calorie Deficit (36.5%)**, and **Screen Time(8.2%)** display the largest deviation from targets, representing the key opportunities for behavioral improvement.
+* In particular, screen time management and workout regularity show the greatest potential for optimization.
+
+The data suggests that habits supported by structure and measurable feedback (e.g., sleep, tracking weight) exhibit higher consistency, while those requiring high activation energy or impulse control (e.g., workouts, screen time reduction) are less stable.
+
+________________________________________________________________________________________________
+
+## 4. Insight Deep Dive 
 
 We talk about specific part of the executive summary and break down more specific finding into detail. 
 
