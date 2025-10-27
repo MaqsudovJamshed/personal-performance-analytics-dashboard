@@ -6,7 +6,7 @@
 </p>
 
 
-📊  1. Project Background & Overview
+# Project Background & Overview
 
 The **Productivity KPI Tracker Dashboard** was developed to analyze daily habits and optimize productivity. Traditionally, manual to-do lists and monthly habit reviews make it challenging to **identify patterns** and **analyze trends** effectively. To address this, a dynamic dashboard was created to centralize daily, weekly, monthly, and all-time metrics in one place.
 
@@ -29,7 +29,7 @@ Insights and recommendations are generated in the following key areas:
 
 _________________________________________________________________________________
 
-## 2. Data Structure Overview
+# Data Structure Overview
 
 The dataset is organized into four main tables:
 
@@ -60,8 +60,14 @@ Below, you can see the **Entity–Relationship Diagram (ERD)** of these tables:
 </p>
 
 ________________________________________________________________________________________________________________________
+# Executive summary
 
-3. Executive summary 
+## Overview Findings
+
+
+<p align="center">
+  <img src="/Executive_sum_project.png" alt="Personal Productivity Dashboard" width="">
+</p> 
 
 Get here right into the juicy staff . 
 
