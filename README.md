@@ -97,6 +97,14 @@ ________________________________________________________________________________
 
 We talk about specific part of the executive summary and break down more specific finding into detail. 
 
+1. Sleep
+
+
+<p align="center">
+  <img src="/Sleep.png.png" alt="Personal Productivity Dashboard" width="">
+</p>
+
+
 5. Recommendation. 
 
 
