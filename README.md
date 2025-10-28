@@ -101,7 +101,7 @@ We talk about specific part of the executive summary and break down more specifi
 
 
 <p align="center">
-  <img src="/Sleep.png.png" alt="Personal Productivity Dashboard" width="">
+  <img src="/Sleep.png " alt="Personal Productivity Dashboard" width="700">
 </p>
 
 
