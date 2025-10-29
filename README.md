@@ -91,18 +91,34 @@ You can explore the executive summary in a dynamic google sheets [here](https://
 
 The data suggests that habits supported by structure and measurable feedback (e.g., sleep, tracking weight) exhibit higher consistency, while those requiring high activation energy or impulse control (e.g., workouts, screen time reduction) are less stable.
 
-________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 4. Insight Deep Dive 
 
-We talk about specific part of the executive summary and break down more specific finding into detail. 
+**SLEEP**
 
-1. Sleep
-
+Sleep serves as a **behavioral performance** indicator reflecting recovery **discipline** and **sustained productivity**. 
+Maintaining sleep between 7–8 hours indicates **effective time and energy management**.
 
 <p align="center">
-  <img src="/Sleep.png " alt="Personal Productivity Dashboard" width="700">
+  <img src="/Sleep.png " alt="Personal Productivity Dashboard" width="800">
 </p>
+
+**Historical Trends**
+
+* ***Consistency (≥7 hours)***: 81%
+* ***All-time Daily Sleep Average***: 7 hours 38 minutes
+* ***Daily Trends***: Sleep durations remain stable and **mostly above** the 7-hour target.
+* ***Weekly Trends***: Consistently **above goal**, with only one minor dip (Week 22: 6h 50m).
+* ***Monthly Averages***: June (7h58m), July (7h40m), August (7h56m), September (7h17m), October (7h16m). A **deliberate adjustment** toward ~7h reflects **optimized sleep duration**.
+* ***Cumulative Totals***: June–October range from 239h to 203h (as of Oct 29). The recent decline reflects **intentional alignment** with **productivity goals** while maintaining recovery balance.
+
+**Insight**: 
+
+Sleep data indicates **high consistency** and **intentional control**. The recent **reduction** in averages represents a **strategic balance** between ***adequate rest*** and ***productivity optimization***.
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 
 5. Recommendation. 
