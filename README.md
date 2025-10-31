@@ -95,6 +95,33 @@ ________________________________________________________________________________
 
 ## 4. Insight Deep Dive 
 
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+                                                        ***PRODUCTIVITY & FOCUS***
+**PLAN THE DAY**
+
+<p align="center">
+  <img src="/plan.png " alt="Personal Productivity Dashboard" width="800">
+</p>
+ 
+**Trends**
+
+* ***Weekly Trend***: On average, **4** of 7 days were **planned** each week. Out of 23 weeks, only **3 reached full planning**, showing **moderate consistency** with **occasional peaks**.
+* ***Monthly Average***: The trend is stabilizing, with an **average of 17 planned** days per month. Planning improved notably from July (10 days) to August (23 days),
+then **slightly decreased** to 20 days in September–October.
+* ***All-Time Consistency***: Between June and October, 87 of 160 days were planned (57% consistency), indicating **moderate adherence** and **steady improvement** over time.
+* ***Longest Streak***: The longest continuous planning period was 14 days, reflecting periods of strong engagement.
+  
+**Insight**:
+
+Overall, the data shows a clear improvement in planning behavior and increasing stability over time,
+with opportunities to strengthen weekly consistency and extend sustained planning streaks.
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+**DAILY JOURNAL**
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+**DEEP WORK**
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+**DAILY READING**
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
 **SLEEP**
 
 Sleep serves as a **behavioral performance** indicator reflecting recovery **discipline** and **sustained productivity**. 
@@ -104,7 +131,7 @@ Maintaining sleep between 7–8 hours indicates **effective time and energy mana
   <img src="/Sleep.png " alt="Personal Productivity Dashboard" width="800">
 </p>
 
-**Historical Trends**
+**Trends**
 
 * ***Consistency (≥7 hours)***: 81%
 * ***All-time Daily Sleep Average***: 7 hours 38 minutes
@@ -113,15 +140,22 @@ Maintaining sleep between 7–8 hours indicates **effective time and energy mana
 * ***Monthly Averages***: June (7h58m), July (7h40m), August (7h56m), September (7h17m), October (7h16m). A **deliberate adjustment** toward ~7h reflects **optimized sleep duration**.
 * ***Cumulative Totals***: June–October range from 239h to 203h (as of Oct 29). The recent decline reflects **intentional alignment** with **productivity goals** while maintaining recovery balance.
 
-**Insight**: 
+**Insight**:
 
 Sleep data indicates **high consistency** and **intentional control**. The recent **reduction** in averages represents a **strategic balance** between ***adequate rest*** and ***productivity optimization***.
 
+
+
+
+
+
+
+
+
+
+
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-
-
-5. Recommendation. 
+5. Recommendation 
 
 
 
