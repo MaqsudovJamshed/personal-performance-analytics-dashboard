@@ -115,8 +115,29 @@ then **slightly decreased** to 20 days in September–October.
 
 Overall, the data shows a clear improvement in planning behavior and increasing stability over time,
 with opportunities to strengthen weekly consistency and extend sustained planning streaks.
-__________________________________________________________________________________________________________________________________________________________________________________________________________________
-**DAILY JOURNAL**
+________________________________________________________________________________________________________________________________________________________________________________________
+**DAILY JOURNALING**
+<p align="center">
+  <img src="/journal.png " alt="Personal Productivity Dashboard" width="800">
+</p>
+
+***Trends***:
+
+* ***Weekly Consistency***
+Journaling occurred an average of 3 times per week, reflecting a 43% weekly consistency rate over the 22-week period.
+* ***Monthly Trend***:
+On average, journaling took place on 15 days per month, maintaining a 48–50% monthly consistency across 5 months.
+* ***Overall Daily Consistency***
+Across 153 days, journaling was recorded on 59 days, indicating a 39% overall daily adherence.
+
+* ***Month-over-Month Change***: **July** (+10 days) Strong improvement from June’s inactivity. **August** (+11 days) Peak consistency month. **September** (–8 days)
+Noticeable drop in journaling frequency. **October** (+2 days) Slight recovery after September’s dip.
+
+**Insight**:
+
+Journaling habits improved steadily after June, peaking in August (+11 days) before dipping in September (–8) and slightly recovering in October (+2).
+Overall consistency averaged 3 entries per week or 15 days per month, showing moderate but growing discipline in maintaining the habit.
+
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
 **DEEP WORK**
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -131,7 +152,7 @@ Maintaining sleep between 7–8 hours indicates **effective time and energy mana
   <img src="/Sleep.png " alt="Personal Productivity Dashboard" width="800">
 </p>
 
-**Trends**
+**Trends**:
 
 * ***Consistency (≥7 hours)***: 81%
 * ***All-time Daily Sleep Average***: 7 hours 38 minutes
@@ -141,8 +162,7 @@ Maintaining sleep between 7–8 hours indicates **effective time and energy mana
 * ***Cumulative Totals***: June–October range from 239h to 203h (as of Oct 29). The recent decline reflects **intentional alignment** with **productivity goals** while maintaining recovery balance.
 
 **Insight**:
-
-Sleep data indicates **high consistency** and **intentional control**. The recent **reduction** in averages represents a **strategic balance** between ***adequate rest*** and ***productivity optimization***.
+  Sleep data indicates **high consistency** and **intentional control**. The recent **reduction** in averages represents a **strategic balance** between ***adequate rest*** and ***productivity optimization***.
 
 
 
