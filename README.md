@@ -142,6 +142,8 @@ ________________________________________________________________________________
   <img src="/dwork.png " alt="Personal Productivity Dashboard" width="800">
 </p>
 
+***Trends***:
+
 * ***Longest streak***: The longest consecutive DW streak is 7 days, with each day averaging 4 hours. This shows the potential for sustained focus, though such streaks are rare.
 
 * ***Daily consistency***: Daily consistency is 9%, meaning DW was achieved on very few days. However, cumulative consistency is 43%, indicating that many days exceeded the 4-hour goal, which increases overall consistency.
@@ -168,6 +170,8 @@ ________________________________________________________________________________
   <img src="/readpage.png" alt="Personal Productivity Dashboard" width="800">
 </p>
 
+***Trends***:
+
 * ***Longest Pages Read in a Day***: The maximum pages read in a single day was 24 pages, exceeding the minimum daily target of 10 pages.
 * ***Daily Consistency***: The habit shows 28% daily consistency, indicating that reading every day is low. However, considering cumulative consistency, it rises to 42%, reflecting that some days involve higher reading activity than others.
 * ***All-Time Average Pages per Day***: The average reading rate is 4 pages per day, which is below the target of 10 pages per day.
@@ -178,6 +182,37 @@ ________________________________________________________________________________
 
 Overall, while peak reading days show strong performance, the habit lacks consistency and volume. Focused strategies to increase daily engagement could help in meeting both weekly and monthly targets.
 ________________________________________________________________________________________________________________________________________________________________________________________
+5. **WORKOUT**
+
+<p align="center">
+  <img src="/wo.png " alt="Personal Productivity Dashboard" width="800">
+</p>
+
+**Trends**:
+
+* ***Longest Break***: There is a 16-day break that stands out as a turning point in the timeline. This gap shows the moment where the training rhythm was fully interrupted, creating a “reset point” before consistency picked up again.
+
+* ***Longest Streak***: A streak of 11 workouts shows a period where the routine stabilized. For 22 days, training followed a predictable pattern, suggesting a structured phase with minimal disruptions.
+
+* ***Rest Day Ratio***: With 64% of days being rest days, the overall pattern leans toward more recovery time than training time. This ratio highlights a cycle where workouts appear in clusters between longer pauses.
+
+* ***All-Time Consistency***: A 71% completion rate indicates that most of the planned sessions were followed through. The overall trend suggests a habit that is in place but still fluctuates depending on the period.
+
+* ***Monthly Average***: The monthly pattern shows 11 workouts per month. This places each month within a consistent range and shows a stable baseline across the whole tracking period.
+
+* ***Weekly Average***: Weekly activity averages 3 workouts, indicating that training is normally spaced out but doesn’t fully reach the intended weekly structure.
+
+* ***Total Workouts***: Out of 77 planned sessions, 55 were completed and 22 were missed, resulting in a completion rate of approximately 71%.
+
+**Insight**
+
+
+The data reveals a habit built around phases: periods of strong continuity followed by occasional long breaks. 
+Training clusters into streaks, supported by steady weekly and monthly averages. This pattern indicates a routine 
+that is forming but still stabilizing, maintaining momentum in waves rather than in a fully uniform cycle
+
+___________________________________________________________________________________
+
 
 10. **SLEEP**
 
@@ -199,8 +234,6 @@ Maintaining sleep between 7–8 hours indicates **effective time and energy mana
 
 **Insight**:
   Sleep data indicates **high consistency** and **intentional control**. The recent **reduction** in averages represents a **strategic balance** between ***adequate rest*** and ***productivity optimization***.
-________________________________________________________________________________________________________________________________________________________________________________________
-
 
 ________________________________________________________________________________________________________________________________________________________________________________________
 5. Recommendation 
