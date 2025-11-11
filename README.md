@@ -212,6 +212,62 @@ Training clusters into streaks, supported by steady weekly and monthly averages.
 that is forming but still stabilizing, maintaining momentum in waves rather than in a fully uniform cycle
 
 ___________________________________________________________________________________
+6. **STEPS**
+
+<p align="center">
+  <img src="/steps.png " alt="Personal Productivity Dashboard" width="800">
+</p>
+
+**Trends**:
+
+* ***All-Time Average Daily Steps***: 10,559 steps, exceeding the 10,000-step daily target.
+
+* ***Consistency***: 66% of days met or exceeded 10,000 steps, indicating that most days maintain target-level activity.
+
+* ***Longest Streak***: 12 consecutive days at or above 10,000 steps, reflecting periods of sustained movement.
+
+* ***Longest Gap***: 8 consecutive days below 10,000 steps, showing occasional interruptions in daily activity.
+
+* ***Monthly Average***: Monthly step averages remain consistently above 10,000 steps, suggesting a stable baseline of activity across months.
+
+**Insight**
+
+The data shows a step pattern that maintains target-level activity on most days, supported by strong streaks and monthly averages above goal. Periods of reduced activity appear in defined clusters, while the overall trend indicates a routine that sustains daily movement above the target on a recurring basis.
+
+
+___________________________________________________________________________________
+7. **DIET FOLLOWED**
+<p align="center">
+  <img src="/diet.png " alt="Personal Productivity Dashboard" width="800">
+</p>
+
+**Trends**:
+
+
+___________________________________________________________________________________
+
+8. **WEIGHT IN KG**
+<p align="center">
+  <img src="/steps.png " alt="Personal Productivity Dashboard" width="800">
+</p>
+
+**Trends**:
+
+
+
+
+___________________________________________________________________________________
+9. **CALORIE DEFICIT (CD)**
+<p align="center">
+  <img src="/steps.png " alt="Personal Productivity Dashboard" width="800">
+</p>
+
+**Trends**:
+
+
+
+
+___________________________________________________________________________________
 
 
 10. **SLEEP**
@@ -235,7 +291,15 @@ Maintaining sleep between 7–8 hours indicates **effective time and energy mana
 **Insight**:
   Sleep data indicates **high consistency** and **intentional control**. The recent **reduction** in averages represents a **strategic balance** between ***adequate rest*** and ***productivity optimization***.
 
-________________________________________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________
+11. **SCREEN TIME (SCT)**
+<p align="center">
+  <img src="/steps.png " alt="Personal Productivity Dashboard" width="800">
+</p>
+
+**Trends**:
+
+___________________________________________________________________________________
 5. Recommendation 
 
 
