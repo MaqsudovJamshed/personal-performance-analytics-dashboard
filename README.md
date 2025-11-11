@@ -75,15 +75,13 @@ You can explore the executive summary in a dynamic google sheets [here](https://
 ***High Consistency Areas***:
 
 * **Sleep (88.3%)** and **Daily Weight Tracking (78.3%)** show the strongest consistency, reflecting well-established daily routines and disciplined monitoring habits.
-
 * **Steps(62.8%)** and **Diet Followed (62.3%)** indicate steady adherence to physical activity and nutritional goals.
 
 ***Moderate Consistency Areas***:
 
 * **Journaling (55.7%)** and **Planning (53.9%)** demonstrate moderate consistency, suggesting good structure in daily planning and reflection but with room for more regular execution.
-
 * **Deep Work (40.9%)** and **Pages Read (42.1%)** show partial alignment with productivity goals, indicating fluctuations in focus and knowledge-building routines.
-
+  
  ***Low Consistency Areas***:
 
 * **Workout(34.9%)**, **Calorie Deficit (36.5%)**, and **Screen Time(8.2%)** display the largest deviation from targets, representing the key opportunities for behavioral improvement.
@@ -91,12 +89,11 @@ You can explore the executive summary in a dynamic google sheets [here](https://
 
 The data suggests that habits supported by structure and measurable feedback (e.g., sleep, tracking weight) exhibit higher consistency, while those requiring high activation energy or impulse control (e.g., workouts, screen time reduction) are less stable.
 
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 4. Insight Deep Dive 
 
-__________________________________________________________________________________________________________________________________________________________________________________________________________________
-                                                        ***PRODUCTIVITY & FOCUS***
+________________________________________________________________________________________________________________________________________________________________________________________
 **PLAN THE DAY**
 
 <p align="center">
@@ -138,8 +135,31 @@ Noticeable drop in journaling frequency. **October** (+2 days) Slight recovery a
 Journaling habits improved steadily after June, peaking in August (+11 days) before dipping in September (–8) and slightly recovering in October (+2).
 Overall consistency averaged 3 entries per week or 15 days per month, showing moderate but growing discipline in maintaining the habit.
 
-__________________________________________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________
 **DEEP WORK**
+
+<p align="center">
+  <img src="/dwork.png " alt="Personal Productivity Dashboard" width="800">
+</p>
+
+* ***Longest streak***: The longest consecutive DW streak is 7 days, with each day averaging 4 hours. This shows the potential for sustained focus, though such streaks are rare.
+
+* ***Daily consistency***: Daily consistency is 9%, meaning DW was achieved on very few days. However, cumulative consistency is 43%, indicating that many days exceeded the 4-hour goal, which increases overall consistency.
+* ***All-time average***: The average DW per day is 1 hour 43 minutes, still 2 hours 16 minutes below the target.
+* ***Weekly totals***: The average weekly DW is ~11 hours, compared to a target of 28 hours, leaving a 17-hour gap.
+* ***Monthly totals***: The average monthly total is 43 hours 57 minutes, approaching the target of 76 hours, showing solid progress but still room for improvement.
+* ***Monthly trend***: Monthly average DW shows a clear upward trend:
+
+- June: 25 minutes
+- July: 30 minutes
+- August: 2 hours 10 minutes
+- September: 2 hours 7 minutes
+- October: 3 hours 21 minutes
+
+**Insight**:
+
+Although daily consistency remains low, the upward trend in monthly averages and cumulative consistency 
+shows meaningful progress toward DW goals. The focus is steadily improving month by month.
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
 **DAILY READING**
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -163,18 +183,10 @@ Maintaining sleep between 7–8 hours indicates **effective time and energy mana
 
 **Insight**:
   Sleep data indicates **high consistency** and **intentional control**. The recent **reduction** in averages represents a **strategic balance** between ***adequate rest*** and ***productivity optimization***.
+________________________________________________________________________________________________________________________________________________________________________________________
 
 
-
-
-
-
-
-
-
-
-
-__________________________________________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________
 5. Recommendation 
 
 
