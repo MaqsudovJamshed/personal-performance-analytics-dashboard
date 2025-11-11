@@ -151,7 +151,6 @@ ________________________________________________________________________________
 * ***Weekly totals***: The average weekly DW is ~11 hours, compared to a target of 28 hours, leaving a 17-hour gap.
 * ***Monthly totals***: The average monthly total is 43 hours 57 minutes, approaching the target of 76 hours, showing solid progress but still room for improvement.
 * ***Monthly trend***: Monthly average DW shows a clear upward trend:
-
 - June: 25 minutes
 - July: 30 minutes
 - August: 2 hours 10 minutes
@@ -191,17 +190,11 @@ ________________________________________________________________________________
 **Trends**:
 
 * ***Longest Break***: There is a 16-day break that stands out as a turning point in the timeline. This gap shows the moment where the training rhythm was fully interrupted, creating a “reset point” before consistency picked up again.
-
 * ***Longest Streak***: A streak of 11 workouts shows a period where the routine stabilized. For 22 days, training followed a predictable pattern, suggesting a structured phase with minimal disruptions.
-
 * ***Rest Day Ratio***: With 64% of days being rest days, the overall pattern leans toward more recovery time than training time. This ratio highlights a cycle where workouts appear in clusters between longer pauses.
-
 * ***All-Time Consistency***: A 71% completion rate indicates that most of the planned sessions were followed through. The overall trend suggests a habit that is in place but still fluctuates depending on the period.
-
 * ***Monthly Average***: The monthly pattern shows 11 workouts per month. This places each month within a consistent range and shows a stable baseline across the whole tracking period.
-
 * ***Weekly Average***: Weekly activity averages 3 workouts, indicating that training is normally spaced out but doesn’t fully reach the intended weekly structure.
-
 * ***Total Workouts***: Out of 77 planned sessions, 55 were completed and 22 were missed, resulting in a completion rate of approximately 71%.
 
 **Insight**
@@ -221,13 +214,9 @@ ________________________________________________________________________________
 **Trends**:
 
 * ***All-Time Average Daily Steps***: 10,559 steps, exceeding the 10,000-step daily target.
-
 * ***Consistency***: 66% of days met or exceeded 10,000 steps, indicating that most days maintain target-level activity.
-
 * ***Longest Streak***: 12 consecutive days at or above 10,000 steps, reflecting periods of sustained movement.
-
 * ***Longest Gap***: 8 consecutive days below 10,000 steps, showing occasional interruptions in daily activity.
-
 * ***Monthly Average***: Monthly step averages remain consistently above 10,000 steps, suggesting a stable baseline of activity across months.
 
 **Insight**
@@ -243,29 +232,67 @@ ________________________________________________________________________________
 
 **Trends**:
 
+* **All-Time Consistency**: The diet was followed for 102 out of 153 days, resulting in an overall consistency of 67%.
+* **Longest Streak**: 20 consecutive days adhering to the diet, showing periods of sustained compliance.
+* **Longest Gap**: 15 consecutive days without following the diet, highlighting the largest interruption.
+* **Month-over-Month (MoM)**:
+- July: 9 fewer days following the diet compared to the month of June
+- August: 9 additional days, showing recovery in adherence
+- September: 5 fewer days, indicating a slight decline
+- October: 1 additional day, suggesting stabilization
+
+**Insight**
+
+The diet adherence data reflects a habit in development with clear cycles of consistency and interruption. Periods of sustained streaks are followed by gaps, indicating fluctuations in routine. Month-over-month trends show a pattern of recovery after declines, suggesting that while adherence is not fully uniform, there is a capacity to return to the routine. Overall, the diet habit demonstrates moderate consistency with observable phases of momentum and adjustment over time. 
+
 
 ___________________________________________________________________________________
 
 8. **WEIGHT IN KG**
 <p align="center">
-  <img src="/steps.png " alt="Personal Productivity Dashboard" width="800">
+  <img src="/weight.png " alt="Personal Productivity Dashboard" width="800">
 </p>
-
 **Trends**:
 
+* **Current Weight**: 75.8 kg, representing a total loss of 5.3 kg over the past 5 months.
+* **Last 30-Day Average Weight**: 76.5 kg, showing recent stabilization.
+* **All-Time Weight Change**: -5.3 kg, with only 0.8 kg remaining to reach the target.
+* **BMI**: 23.9, classified as “Normal.”
+* **Month-over-Month (MoM) Weight Change**:
+- July: -0.296 kg
+- August: -1.474 kg
+- September: -1.064 kg
+- October: -0.465 kg
 
+**Insight**: 
 
-
+The weight data indicates steady progress over the 5-month period, with the most significant reductions occurring in August and September. Recent months show a slowing trend, suggesting the approach to the target weight is stabilizing. Overall, the trajectory reflects a consistent downward trend, with minimal weight remaining to reach the goal, indicating that the weight management habit has been effectively maintained over time.
 ___________________________________________________________________________________
 9. **CALORIE DEFICIT (CD)**
+
 <p align="center">
   <img src="/steps.png " alt="Personal Productivity Dashboard" width="800">
 </p>
 
 **Trends**:
 
+* **All-Time Calorie Deficit (CD)**: -181 kcal overall.
+* **Weekly Average CD**: -1,155 kcal/week.
+* **Monthly Average CD**: -4,619 kcal/month.
+* **Consistency**: 37% of days met the intended calorie deficit target.
+* **Current Body Fat**: 18%, down 3% from June, and 3% above the goal of 15%.
+* **Percentage of Target Achieved**: 33%.
+* **Estimated Fat Loss**: 1.17 kg.
+* **Month-over-Month Cumulative Calorie Deficit**: 
+- June: -3,787 kcal
+- July: -3,707 kcal
+- August: -9,525 kcal
+- September: -5,639 kcal
+- October: -5,054 kcal
 
+**Insight**
 
+The calorie deficit data shows fluctuating adherence over time, with peaks in August and gradual stabilization in recent months. Body fat has decreased by 3% since June, representing measurable progress toward the 15% target, with approximately one-third of the overall fat loss goal achieved. The trend suggests that periods of higher deficit contribute significantly to fat reduction, while lower consistency indicates room for improvement in maintaining a sustained deficit. The overall trajectory reflects a developing routine with incremental progress toward body composition goals.
 
 ___________________________________________________________________________________
 
