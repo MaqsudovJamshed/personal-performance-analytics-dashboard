@@ -94,7 +94,7 @@ ________________________________________________________________________________
 ## 4. Insight Deep Dive 
 
 ________________________________________________________________________________________________________________________________________________________________________________________
-**PLAN THE DAY**
+1. **PLAN THE DAY**
 
 <p align="center">
   <img src="/plan.png " alt="Personal Productivity Dashboard" width="800">
@@ -113,7 +113,7 @@ then **slightly decreased** to 20 days in September–October.
 Overall, the data shows a clear improvement in planning behavior and increasing stability over time,
 with opportunities to strengthen weekly consistency and extend sustained planning streaks.
 ________________________________________________________________________________________________________________________________________________________________________________________
-**DAILY JOURNALING**
+2. **DAILY JOURNALING**
 <p align="center">
   <img src="/journal.png " alt="Personal Productivity Dashboard" width="800">
 </p>
@@ -136,7 +136,7 @@ Journaling habits improved steadily after June, peaking in August (+11 days) bef
 Overall consistency averaged 3 entries per week or 15 days per month, showing moderate but growing discipline in maintaining the habit.
 
 ________________________________________________________________________________________________________________________________________________________________________________
-**DEEP WORK**
+3. **DEEP WORK**
 
 <p align="center">
   <img src="/dwork.png " alt="Personal Productivity Dashboard" width="800">
@@ -160,10 +160,26 @@ ________________________________________________________________________________
 
 Although daily consistency remains low, the upward trend in monthly averages and cumulative consistency 
 shows meaningful progress toward DW goals. The focus is steadily improving month by month.
-__________________________________________________________________________________________________________________________________________________________________________________________________________________
-**DAILY READING**
-__________________________________________________________________________________________________________________________________________________________________________________________________________________
-**SLEEP**
+________________________________________________________________________________________________________________________________________________________________________________________
+4. **DAILY READING**
+
+   
+<p align="center">
+  <img src="/readpage.png" alt="Personal Productivity Dashboard" width="800">
+</p>
+
+* ***Longest Pages Read in a Day***: The maximum pages read in a single day was 24 pages, exceeding the minimum daily target of 10 pages.
+* ***Daily Consistency***: The habit shows 28% daily consistency, indicating that reading every day is low. However, considering cumulative consistency, it rises to 42%, reflecting that some days involve higher reading activity than others.
+* ***All-Time Average Pages per Day***: The average reading rate is 4 pages per day, which is below the target of 10 pages per day.
+* ***Weekly Reading***: The average number of pages read per week is 28, falling short of the minimum weekly target of 70 pages.
+* ***Monthly Reading***: The total monthly average is 129 pages, missing 171 pages to meet the monthly target.
+
+**Insight**.
+
+Overall, while peak reading days show strong performance, the habit lacks consistency and volume. Focused strategies to increase daily engagement could help in meeting both weekly and monthly targets.
+________________________________________________________________________________________________________________________________________________________________________________________
+
+10. **SLEEP**
 
 Sleep serves as a **behavioral performance** indicator reflecting recovery **discipline** and **sustained productivity**. 
 Maintaining sleep between 7–8 hours indicates **effective time and energy management**.
