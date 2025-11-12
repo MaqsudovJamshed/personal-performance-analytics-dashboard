@@ -69,25 +69,28 @@ Each metric is evaluated based on Consistency %, Gap vs Target, Average Value, R
 You can explore the executive summary in a dynamic google sheets [here](https://docs.google.com/spreadsheets/d/1x-mhHTT8bQrLh7cjOE0KSys-MGb55SVAtPmmatN_ONQ/edit?gid=1214931430#gid=1214931430)
 
 <p align="center">
-  <img src="/Executive_sum_project.png" alt="Personal Productivity Dashboard" width="">
+  <img src="/esmetrics.png " alt="Personal Productivity Dashboard" width="">
 </p> 
 
 ***High Consistency Areas***:
 
-* **Sleep (88.3%)** and **Daily Weight Tracking (78.3%)** show the strongest consistency, reflecting well-established daily routines and disciplined monitoring habits.
-* **Steps(62.8%)** and **Diet Followed (62.3%)** indicate steady adherence to physical activity and nutritional goals.
+* **Daily Weight (88.33%)** and **Sleep (80%)** show the strongest consistency, reflecting well-established daily routines and disciplined monitoring habits.
+
+* **Diet Followed (67%)** and **Steps(66%)** indicate steady adherence to nutritional and physical activity goals.
 
 ***Moderate Consistency Areas***:
 
-* **Journaling (55.7%)** and **Planning (53.9%)** demonstrate moderate consistency, suggesting good structure in daily planning and reflection but with room for more regular execution.
-* **Deep Work (40.9%)** and **Pages Read (42.1%)** show partial alignment with productivity goals, indicating fluctuations in focus and knowledge-building routines.
+* **Planned (57%)** and **Journaling (39%)** demonstrate moderate consistency, suggesting some structure in daily planning and reflection but with room for improvement.
+
+* **Deep Work (43%)** and **Pages Read (42%)** show partial alignment with productivity and knowledge-building routines, indicating occasional engagement but inconsistent follow-through.
   
  ***Low Consistency Areas***:
 
-* **Workout(34.9%)**, **Calorie Deficit (36.5%)**, and **Screen Time(8.2%)** display the largest deviation from targets, representing the key opportunities for behavioral improvement.
-* In particular, screen time management and workout regularity show the greatest potential for optimization.
+* **Workout (68%)**, **Calorie Deficit (37%)**, and **Screen Time (9%)** display the largest deviation from targets, representing key opportunities for behavioral improvement.
 
-The data suggests that habits supported by structure and measurable feedback (e.g., sleep, tracking weight) exhibit higher consistency, while those requiring high activation energy or impulse control (e.g., workouts, screen time reduction) are less stable.
+* In particular, screen time management and calorie deficit consistency show the greatest potential for optimization.
+
+Habits supported by measurable routines (e.g., weight tracking, sleep) continue to be the most consistent, while behaviors requiring higher activation energy or self-discipline (workouts, calorie management, and reducing screen time) remain less stable. Focusing on smaller, incremental improvements in low-consistency areas could yield the biggest gains in overall routine stability.
 
 ________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -184,7 +187,7 @@ ________________________________________________________________________________
 5. **WORKOUT**
 
 <p align="center">
-  <img src="/wo.png " alt="Personal Productivity Dashboard" width="800">
+  <img src="/workout.png " alt="Personal Productivity Dashboard" width="800">
 </p>
 
 **Trends**
@@ -192,10 +195,10 @@ ________________________________________________________________________________
 * ***Longest Break***: There is a 16-day break that stands out as a turning point in the timeline. This gap shows the moment where the training rhythm was fully interrupted, creating a “reset point” before consistency picked up again.
 * ***Longest Streak***: A streak of 11 workouts shows a period where the routine stabilized. For 22 days, training followed a predictable pattern, suggesting a structured phase with minimal disruptions.
 * ***Rest Day Ratio***: With 64% of days being rest days, the overall pattern leans toward more recovery time than training time. This ratio highlights a cycle where workouts appear in clusters between longer pauses.
-* ***All-Time Consistency***: A 71% completion rate indicates that most of the planned sessions were followed through. The overall trend suggests a habit that is in place but still fluctuates depending on the period.
+* ***All-Time Consistency***: A 68% completion rate indicates that most of the planned sessions were followed through. The overall trend suggests a habit that is in place but still fluctuates depending on the period.
 * ***Monthly Average***: The monthly pattern shows 11 workouts per month. This places each month within a consistent range and shows a stable baseline across the whole tracking period.
 * ***Weekly Average***: Weekly activity averages 3 workouts, indicating that training is normally spaced out but doesn’t fully reach the intended weekly structure.
-* ***Total Workouts***: Out of 77 planned sessions, 55 were completed and 22 were missed, resulting in a completion rate of approximately 71%.
+* ***Total Workouts***: Out of 81 planned sessions, 55 were completed and 22 were missed, resulting in a completion rate of approximately 68%.
 
 **Insight**
 
@@ -272,7 +275,7 @@ ________________________________________________________________________________
 9. **CALORIE DEFICIT (CD)**
 
 <p align="center">
-  <img src="/steps.png " alt="Personal Productivity Dashboard" width="800">
+  <img src="/cd.png " alt="Personal Productivity Dashboard" width="800">
 </p>
 
 **Trends**
@@ -300,20 +303,16 @@ ________________________________________________________________________________
 
 10. **SLEEP**
 
-Sleep serves as a **behavioral performance** indicator reflecting recovery **discipline** and **sustained productivity**. 
-Maintaining sleep between 7–8 hours indicates **effective time and energy management**.
-
 <p align="center">
-  <img src="/Sleep.png " alt="Personal Productivity Dashboard" width="800">
+  <img src="/slp.png " alt="Personal Productivity Dashboard" width="800">
 </p>
 
 **Trends**
 
-* ***Consistency (≥7 hours)***: 81%
+* ***Consistency (≥7 hours)***: 80%
 * ***All-time Daily Sleep Average***: 7 hours 38 minutes
 * ***Daily Trends***: Sleep durations remain stable and **mostly above** the 7-hour target.
-* ***Weekly Trends***: Consistently **above goal**, with only one minor dip (Week 22: 6h 50m).
-* ***Monthly Averages***: June (7h58m), July (7h40m), August (7h56m), September (7h17m), October (7h16m). A **deliberate adjustment** toward ~7h reflects **optimized sleep duration**.
+* **All-time Median Sleep**: 7hours and 30 minutes reflects a balanced and healthy rest pattern.
 * ***Cumulative Totals***: June–October range from 239h to 203h (as of Oct 29). The recent decline reflects **intentional alignment** with **productivity goals** while maintaining recovery balance.
 
 **Insight**
@@ -325,18 +324,19 @@ ________________________________________________________________________________
 11. **SCREEN TIME (SCT)**
 
 <p align="center">
-  <img src="/steps.png " alt="Personal Productivity Dashboard" width="800">
+  <img src="/sct.png " alt="Personal Productivity Dashboard" width="800">
 </p>
 
 **Trends**
 
-**All-Time Screen Time (SCT)**: 4 h 34 m overall.
-**Weekly Average SCT**: 29 h 12 m/week.
-****Monthly Average SCT**: 116 h 51 m/month.
-**Longest SCT in a Day**: 16 h 37 m.
-**Shortest SCT in a Day**: 0 h 58 m.
-**Consistency**: 9.15% of days met the intended SCT target (under 2 h/day).
-**Month-over-Month Cumulative SCT**:
+* **All-Time Screen Time (SCT)**: 4 h 34 m overall.
+* **Weekly Average SCT**: 29 h 12 m/week.
+* **Monthly Average SCT**: 116 h 51 m/month.
+* **Longest SCT in a Day**: 16 h 37 m.
+* **Shortest SCT in a Day**: 0 h 58 m.
+* **Consistency**: 9.15% of days met the intended SCT target (under 2 h/day).
+  
+* **Month-over-Month Cumulative SCT**:
 - June: 179 h 11 m
 - July: 175 h 22 m (-3 h 39 m)
 - August: 127 h 15 m (-48 h 7 m)
@@ -347,11 +347,21 @@ ________________________________________________________________________________
 
 Screen time has decreased significantly over the past six months, **with a total reduction of 74 h 28 m**. The largest **decline occurred in August**, suggesting that targeted changes or behavioral interventions during this period were particularly effective. Despite this positive trend, **consistency remains low, and daily SCT still exceeds the 2 h target**, indicating irregular adherence. Peak usage days highlight opportunities for further interventions to maintain daily limits. Overall, the data reflects measurable progress in reducing screen time, with potential for greater impact through improved consistency and targeted strategies.
 ___________________________________________________________________________________
-5. Recommendation 
+# 5. Recommendation
 
 
 
+* Reinforce Strengths
+Maintain structured routines for sleep and weight tracking, which form the foundation for productivity and focus.
 
+* Improve Low-Consistency Areas Gradually
+Introduce small, trackable goals for workouts, calorie tracking, and screen time to build stable habits over time.
 
+* Link Habits for Accountability
+Connect behaviors, e.g., journal after deep work or review calories before dinner, to strengthen follow-through.
 
+* Use Feedback Loops
+Monitor trends weekly through your dashboard to adjust goals based on real data.
 
+* Balance Structure and Flexibility
+Allow some variation in routines to maintain engagement while steadily improving consistency.
