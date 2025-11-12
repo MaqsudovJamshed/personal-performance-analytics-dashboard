@@ -108,7 +108,7 @@ then **slightly decreased** to 20 days in September–October.
 * ***All-Time Consistency***: Between June and October, 87 of 160 days were planned (57% consistency), indicating **moderate adherence** and **steady improvement** over time.
 * ***Longest Streak***: The longest continuous planning period was 14 days, reflecting periods of strong engagement.
   
-**Insight**:
+**Insight**
 
 Overall, the data shows a clear improvement in planning behavior and increasing stability over time,
 with opportunities to strengthen weekly consistency and extend sustained planning streaks.
@@ -118,7 +118,7 @@ ________________________________________________________________________________
   <img src="/journal.png " alt="Personal Productivity Dashboard" width="800">
 </p>
 
-***Trends***:
+***Trends***
 
 * ***Weekly Consistency***
 Journaling occurred an average of 3 times per week, reflecting a 43% weekly consistency rate over the 22-week period.
@@ -130,7 +130,7 @@ Across 153 days, journaling was recorded on 59 days, indicating a 39% overall da
 * ***Month-over-Month Change***: **July** (+10 days) Strong improvement from June’s inactivity. **August** (+11 days) Peak consistency month. **September** (–8 days)
 Noticeable drop in journaling frequency. **October** (+2 days) Slight recovery after September’s dip.
 
-**Insight**:
+**Insight**
 
 Journaling habits improved steadily after June, peaking in August (+11 days) before dipping in September (–8) and slightly recovering in October (+2).
 Overall consistency averaged 3 entries per week or 15 days per month, showing moderate but growing discipline in maintaining the habit.
@@ -142,7 +142,7 @@ ________________________________________________________________________________
   <img src="/dwork.png " alt="Personal Productivity Dashboard" width="800">
 </p>
 
-***Trends***:
+***Trends***
 
 * ***Longest streak***: The longest consecutive DW streak is 7 days, with each day averaging 4 hours. This shows the potential for sustained focus, though such streaks are rare.
 
@@ -157,7 +157,7 @@ ________________________________________________________________________________
 - September: 2 hours 7 minutes
 - October: 3 hours 21 minutes
 
-**Insight**:
+**Insight**
 
 Although daily consistency remains low, the upward trend in monthly averages and cumulative consistency 
 shows meaningful progress toward DW goals. The focus is steadily improving month by month.
@@ -169,7 +169,7 @@ ________________________________________________________________________________
   <img src="/readpage.png" alt="Personal Productivity Dashboard" width="800">
 </p>
 
-***Trends***:
+***Trends***
 
 * ***Longest Pages Read in a Day***: The maximum pages read in a single day was 24 pages, exceeding the minimum daily target of 10 pages.
 * ***Daily Consistency***: The habit shows 28% daily consistency, indicating that reading every day is low. However, considering cumulative consistency, it rises to 42%, reflecting that some days involve higher reading activity than others.
@@ -177,7 +177,7 @@ ________________________________________________________________________________
 * ***Weekly Reading***: The average number of pages read per week is 28, falling short of the minimum weekly target of 70 pages.
 * ***Monthly Reading***: The total monthly average is 129 pages, missing 171 pages to meet the monthly target.
 
-**Insight**.
+**Insight**
 
 Overall, while peak reading days show strong performance, the habit lacks consistency and volume. Focused strategies to increase daily engagement could help in meeting both weekly and monthly targets.
 ________________________________________________________________________________________________________________________________________________________________________________________
@@ -187,7 +187,7 @@ ________________________________________________________________________________
   <img src="/wo.png " alt="Personal Productivity Dashboard" width="800">
 </p>
 
-**Trends**:
+**Trends**
 
 * ***Longest Break***: There is a 16-day break that stands out as a turning point in the timeline. This gap shows the moment where the training rhythm was fully interrupted, creating a “reset point” before consistency picked up again.
 * ***Longest Streak***: A streak of 11 workouts shows a period where the routine stabilized. For 22 days, training followed a predictable pattern, suggesting a structured phase with minimal disruptions.
@@ -211,7 +211,7 @@ ________________________________________________________________________________
   <img src="/steps.png " alt="Personal Productivity Dashboard" width="800">
 </p>
 
-**Trends**:
+**Trends**
 
 * ***All-Time Average Daily Steps***: 10,559 steps, exceeding the 10,000-step daily target.
 * ***Consistency***: 66% of days met or exceeded 10,000 steps, indicating that most days maintain target-level activity.
@@ -230,7 +230,7 @@ ________________________________________________________________________________
   <img src="/diet.png " alt="Personal Productivity Dashboard" width="800">
 </p>
 
-**Trends**:
+**Trends**
 
 * **All-Time Consistency**: The diet was followed for 102 out of 153 days, resulting in an overall consistency of 67%.
 * **Longest Streak**: 20 consecutive days adhering to the diet, showing periods of sustained compliance.
@@ -252,7 +252,8 @@ ________________________________________________________________________________
 <p align="center">
   <img src="/weight.png " alt="Personal Productivity Dashboard" width="800">
 </p>
-**Trends**:
+
+**Trends**
 
 * **Current Weight**: 75.8 kg, representing a total loss of 5.3 kg over the past 5 months.
 * **Last 30-Day Average Weight**: 76.5 kg, showing recent stabilization.
@@ -264,7 +265,7 @@ ________________________________________________________________________________
 - September: -1.064 kg
 - October: -0.465 kg
 
-**Insight**: 
+**Insight**
 
 The weight data indicates steady progress over the 5-month period, with the most significant reductions occurring in August and September. Recent months show a slowing trend, suggesting the approach to the target weight is stabilizing. Overall, the trajectory reflects a consistent downward trend, with minimal weight remaining to reach the goal, indicating that the weight management habit has been effectively maintained over time.
 ___________________________________________________________________________________
@@ -274,7 +275,7 @@ ________________________________________________________________________________
   <img src="/steps.png " alt="Personal Productivity Dashboard" width="800">
 </p>
 
-**Trends**:
+**Trends**
 
 * **All-Time Calorie Deficit (CD)**: -181 kcal overall.
 * **Weekly Average CD**: -1,155 kcal/week.
@@ -306,7 +307,7 @@ Maintaining sleep between 7–8 hours indicates **effective time and energy mana
   <img src="/Sleep.png " alt="Personal Productivity Dashboard" width="800">
 </p>
 
-**Trends**:
+**Trends**
 
 * ***Consistency (≥7 hours)***: 81%
 * ***All-time Daily Sleep Average***: 7 hours 38 minutes
@@ -315,17 +316,36 @@ Maintaining sleep between 7–8 hours indicates **effective time and energy mana
 * ***Monthly Averages***: June (7h58m), July (7h40m), August (7h56m), September (7h17m), October (7h16m). A **deliberate adjustment** toward ~7h reflects **optimized sleep duration**.
 * ***Cumulative Totals***: June–October range from 239h to 203h (as of Oct 29). The recent decline reflects **intentional alignment** with **productivity goals** while maintaining recovery balance.
 
-**Insight**:
+**Insight**
+
   Sleep data indicates **high consistency** and **intentional control**. The recent **reduction** in averages represents a **strategic balance** between ***adequate rest*** and ***productivity optimization***.
 
 ___________________________________________________________________________________
+
 11. **SCREEN TIME (SCT)**
+
 <p align="center">
   <img src="/steps.png " alt="Personal Productivity Dashboard" width="800">
 </p>
 
-**Trends**:
+**Trends**
 
+**All-Time Screen Time (SCT)**: 4 h 34 m overall.
+**Weekly Average SCT**: 29 h 12 m/week.
+****Monthly Average SCT**: 116 h 51 m/month.
+**Longest SCT in a Day**: 16 h 37 m.
+**Shortest SCT in a Day**: 0 h 58 m.
+**Consistency**: 9.15% of days met the intended SCT target (under 2 h/day).
+**Month-over-Month Cumulative SCT**:
+- June: 179 h 11 m
+- July: 175 h 22 m (-3 h 39 m)
+- August: 127 h 15 m (-48 h 7 m)
+- September: 114 h 39 m (-12 h 36 m)
+- October: 104 h 43 m (-9 h 56 m)
+
+**Insight**
+
+Screen time has decreased significantly over the past six months, **with a total reduction of 74 h 28 m**. The largest **decline occurred in August**, suggesting that targeted changes or behavioral interventions during this period were particularly effective. Despite this positive trend, **consistency remains low, and daily SCT still exceeds the 2 h target**, indicating irregular adherence. Peak usage days highlight opportunities for further interventions to maintain daily limits. Overall, the data reflects measurable progress in reducing screen time, with potential for greater impact through improved consistency and targeted strategies.
 ___________________________________________________________________________________
 5. Recommendation 
 
